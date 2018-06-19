@@ -1,0 +1,21 @@
+= Distributed Data Mining
+
+== Setting up the environment
+
+1. Install all dependencies (this might take few minutes)
++
+----
+conda env create
+----
+
+2. Activate the environment
++
+----
+source activate ddm
+----
+
+3. Run Jupyter Lab
++
+----
+jupyter lab
+----
